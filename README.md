@@ -2,3 +2,7 @@ Download the latest version of [Chromedriver](https://chromedriver.chromium.org/
 ```pip install -r requirements.txt```.
 
 Run the script and enjoy the show.
+
+
+# Archived
+Should have packaged and documented this better.
